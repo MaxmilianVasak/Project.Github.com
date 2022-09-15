@@ -1,5 +1,5 @@
 # Project.Github.com
 
-Tohle je první soubor na Github.com
+Tohle je první repozitář na Github.com
 
 Přečti si mě.
